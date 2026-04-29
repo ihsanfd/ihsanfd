@@ -1,5 +1,4 @@
-# 💫 About Me:
-🔭 I’m currently working on React.js<br>🌱 I’m currently learning Angular<br>💬 Ask me about how to learn code from reliable sources<br>⚡ Fun fact i love to travel and playing video games
+
 
 
 ## 🌐 Socials:
